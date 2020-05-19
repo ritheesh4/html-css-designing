@@ -15,6 +15,7 @@ nav{
 }
 nav ul li.header{
     color: black;
+    font-size: 22px;
     font-weight: bold;
     margin-right: 8%;
 }
@@ -130,3 +131,52 @@ transition: opacity 1s ease-in-out;
     top: 10px;
     margin-right: 10px; 
 }
+.imageli :hover {
+    position: relative;
+    top: -4px;
+    width: 102%;
+}
+.banner ul {
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.banner {
+    width: 25%;
+    display: inline-block;
+}
+.shade{
+    background: rgba(0,0,0,0.5);
+    padding: 5px;
+    
+}
+ul#banner1 li {
+    text-align: center;
+    display:inline-block;
+    width: 60%;
+    margin-left: 30%;
+  }
+  .banner-body{
+      color: white;
+      padding-top: 60px;
+      background-color: #20afa5;
+      padding-bottom: 60px;
+      margin-bottom: 60px;
+  }
+  .banner-image{
+      width:140px;
+  }
+  ul#banner0 li {
+    text-align: center;
+    font-size: 20px;
+    display:inline-block;
+    width: 60%;
+    margin-left: 30%;
+  }
+  ul#banner3 li {
+     color: white;
+    text-align: center;
+    display:inline-block;
+    width: 60%;
+    margin-left: 30%;
+  }
