@@ -87,3 +87,46 @@ nav li a{
 .dropdown-content a:hover {background-color: #ddd;padding-bottom: 10px;}
 
 .dropdown:hover .dropdown-content {display: block;}
+.gallery{
+    padding-top: 50px;
+width: 100%;
+position: relative;
+-webkit-transition: opacity 1s ease-in-out;
+-moz-transition: opacity 1s ease-in-out;
+-o-transition: opacity 1s ease-in-out;
+transition: opacity 1s ease-in-out;
+}
+.phone{
+    width: 100%;
+
+}
+
+.midscreen{
+    background-color:  #eeeeee;
+
+}
+.midlist{
+    text-align: center;
+    list-style-type: none;
+    white-space: nowrap;
+    padding:120px 0px
+
+}
+.midlist .half {
+    
+    display: inline-block;
+    width: 30%;
+    margin: 20px ;
+}
+.midlist .second-part{   
+    text-align: left;
+}
+.imageli{
+    padding-right:0 ;
+}
+.midlist .second-part .icons{   
+    width: 30px;
+    position: relative;
+    top: 10px;
+    margin-right: 10px; 
+}
