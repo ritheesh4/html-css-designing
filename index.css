@@ -161,8 +161,34 @@ ul#banner1 li {
       padding-top: 60px;
       background-color: #20afa5;
       padding-bottom: 60px;
-      margin-bottom: 60px;
+      
   }
+  .banner-body.second{
+    color: black;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-color:#eeeeee;
+    padding-bottom: 60px;
+    margin-bottom: 60px;
+
+  }
+  .brands{
+      color: #9b31f2;
+      font-size: 90px;
+  }
+  .products{
+    color:#f9782d;
+    font-size: 90px;
+  }
+  .use-cases{
+    color:#db007c;
+    font-size: 90px;
+  }
+  .enegery{
+    color:#2ba450;
+    font-size: 90px;
+  }
+
   .banner-image{
       width:140px;
   }
@@ -180,3 +206,22 @@ ul#banner1 li {
     width: 60%;
     margin-left: 30%;
   }
+  .how-it-works{
+      color: white;
+    background-color: #349d28;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+  }
+  .how-it-works .title-portion{
+      font-size: 30px;
+  }
+  .how-it-works .icons {
+    width: 30px;
+    position: relative;
+    top: 10px;
+    margin-right: 10px;
+}
+.starting-point{
+    margin-left:40px ;
+}
